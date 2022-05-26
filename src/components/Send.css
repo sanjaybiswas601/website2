@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contact{
+    width: 100%;
+    background: transparent;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
+.form{
+    margin-top: 50px;
+    width: 50%;
+    border-width: 40%;
+    border: 3px solid rgb(21, 19, 19);
+    padding: 20px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}

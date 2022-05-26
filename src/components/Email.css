@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: url("https://www.wallpapertip.com/wmimgs/66-666819_website-design-background-creative-background-image-for-website.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
+.text-box{
+    width: 90%;
+    color: #fff;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+.form{
+    margin-top: 50px;
+    width: 50%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
